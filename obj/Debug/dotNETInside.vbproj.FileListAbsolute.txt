@@ -1,0 +1,12 @@
+C:\Users\ECA\source\repos\dotNETInside\bin\Debug\dotNETInside.exe.config
+C:\Users\ECA\source\repos\dotNETInside\bin\Debug\dotNETInside.exe
+C:\Users\ECA\source\repos\dotNETInside\bin\Debug\dotNETInside.pdb
+C:\Users\ECA\source\repos\dotNETInside\bin\Debug\dotNETInside.xml
+C:\Users\ECA\source\repos\dotNETInside\obj\Debug\dotNETInside.vbprojAssemblyReference.cache
+C:\Users\ECA\source\repos\dotNETInside\obj\Debug\dotNETInside.Form1.resources
+C:\Users\ECA\source\repos\dotNETInside\obj\Debug\dotNETInside.Resources.resources
+C:\Users\ECA\source\repos\dotNETInside\obj\Debug\dotNETInside.vbproj.GenerateResource.cache
+C:\Users\ECA\source\repos\dotNETInside\obj\Debug\dotNETInside.vbproj.CoreCompileInputs.cache
+C:\Users\ECA\source\repos\dotNETInside\obj\Debug\dotNETInside.exe
+C:\Users\ECA\source\repos\dotNETInside\obj\Debug\dotNETInside.xml
+C:\Users\ECA\source\repos\dotNETInside\obj\Debug\dotNETInside.pdb
